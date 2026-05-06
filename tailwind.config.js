@@ -8,8 +8,8 @@ export default {
         sans: ['Raleway', 'system-ui', 'sans-serif'],
       },
       colors: {
-        gold: '#C9A84C',
-        'gold-light': '#E8C97A',
+        red: '#C41E3A',
+        'red-light': '#E53935',
         cream: '#F5F0E8',
         'barber-black': '#1a1a1a',
         'barber-dark': '#141414',
